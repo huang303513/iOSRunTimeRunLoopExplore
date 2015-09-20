@@ -37,6 +37,9 @@ http://blog.ibireme.com/2015/05/18/runloop/#base)
 [Objective-C之run loop详解]( 
 http://blog.csdn.net/wzzvictory/article/details/9237973)
 
+[跟着MJExtension实现简单的字典转模型框架]( 
+                         http://www.jianshu.com/p/d2ecef03f19e)
+
 ##未完待续，以后找到好的文章持续跟新。。欢迎关注。。
 
 
