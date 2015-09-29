@@ -3,8 +3,9 @@ ios运行时的学习与实践
 
 ##下面的链接地址是我在学习过程中找到关于运行时的相关文章的干货集合。。先分享出来。。。。。吐血收集整理。。。后面还会有持续更新，欢迎收藏。。
 
+[轻松学习之三——IMP指针的作用](http://www.jianshu.com/p/425a39d43d16)
 
-[iOS~runtime理解]( http://www.jianshu.com/p/927c8384855a)
+[iOS~runtime理解](http://www.jianshu.com/p/927c8384855a)
 
 [OC消息转发实践](http://blog.csdn.net/yiyaaixuexi/article/details/9374411)
 
