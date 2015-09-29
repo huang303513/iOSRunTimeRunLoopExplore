@@ -109,17 +109,19 @@ id nameGetter(id self, SEL cmd){
 }
 
 /**
- *  处理要转发的方法
+ *  是自己新建方法签名，再在forwardInvocation中用你要转发的那个对象调用这个对应的签名，这样也实现了消息转发。
  *
  *  @param aSelector 方法名
  *
- *  @return 返回一个包装的对象
+ *  @return 返回一个签名
  */
 -(NSMethodSignature *)methodSignatureForSelector:(SEL)aSelector{
     NSMethodSignature *sig = nil;
     NSString *selStr = NSStringFromSelector(aSelector);
+    //判断你要转发的SEL
     if ([selStr isEqualToString:@"deptName"]) {
         //此处返回的sig是方法forwardInvocation的参数anInvocation中的methodSignature
+        //为你的转发方法手动生成签名
         sig = [self.companyModel methodSignatureForSelector:@selector(deptName:)];
     }else{
         sig = [super methodSignatureForSelector:aSelector];

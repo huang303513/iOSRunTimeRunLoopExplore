@@ -5,6 +5,8 @@ ios运行时的学习与实践
 
 [轻松学习之三——IMP指针的作用](http://www.jianshu.com/p/425a39d43d16)
 
+[轻松学习之一－－Objective-C消息转发](http://www.jianshu.com/p/1bde36ad9938)
+
 [iOS~runtime理解](http://www.jianshu.com/p/927c8384855a)
 
 [OC消息转发实践](http://blog.csdn.net/yiyaaixuexi/article/details/9374411)

@@ -6,6 +6,8 @@
 //  Copyright © 2015年 黄成都. All rights reserved.
 //
 #warning 参考博文地址:http://www.jianshu.com/p/01a19c64499c
+#warning 参考博客地址：http://www.jianshu.com/p/1bde36ad9938
+#warning 类似demo：https://github.com/Loongwoo/MsgForwardDemo
 
 #import "AppDelegate.h"
 
