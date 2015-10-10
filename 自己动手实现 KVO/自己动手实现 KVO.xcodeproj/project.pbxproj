@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DD1A572D1BC9089C001DD68C /* HCDObservationInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = DD1A572C1BC9089C001DD68C /* HCDObservationInfo.m */; settings = {ASSET_TAGS = (); }; };
 		DD2BAD7A1BC64B10000EBA4F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DD2BAD791BC64B10000EBA4F /* main.m */; };
 		DD2BAD7D1BC64B10000EBA4F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DD2BAD7C1BC64B10000EBA4F /* AppDelegate.m */; };
 		DD2BAD801BC64B10000EBA4F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DD2BAD7F1BC64B10000EBA4F /* ViewController.m */; };
@@ -36,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DD1A572B1BC9089C001DD68C /* HCDObservationInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HCDObservationInfo.h; sourceTree = "<group>"; };
+		DD1A572C1BC9089C001DD68C /* HCDObservationInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HCDObservationInfo.m; sourceTree = "<group>"; };
 		DD2BAD751BC64B10000EBA4F /* 自己动手实现 KVO.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "自己动手实现 KVO.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD2BAD791BC64B10000EBA4F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		DD2BAD7B1BC64B10000EBA4F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -149,6 +152,8 @@
 			children = (
 				DD2BADAC1BC65085000EBA4F /* NSObject+HCDKVO.h */,
 				DD2BADAD1BC65085000EBA4F /* NSObject+HCDKVO.m */,
+				DD1A572B1BC9089C001DD68C /* HCDObservationInfo.h */,
+				DD1A572C1BC9089C001DD68C /* HCDObservationInfo.m */,
 			);
 			path = "自定义KVO";
 			sourceTree = "<group>";
@@ -286,6 +291,7 @@
 				DD2BAD801BC64B10000EBA4F /* ViewController.m in Sources */,
 				DD2BAD7D1BC64B10000EBA4F /* AppDelegate.m in Sources */,
 				DD2BADAE1BC65085000EBA4F /* NSObject+HCDKVO.m in Sources */,
+				DD1A572D1BC9089C001DD68C /* HCDObservationInfo.m in Sources */,
 				DD2BAD7A1BC64B10000EBA4F /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -510,6 +516,7 @@
 				DD2BADA41BC64B11000EBA4F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DD2BADA51BC64B11000EBA4F /* Build configuration list for PBXNativeTarget "自己动手实现 KVOTests" */ = {
 			isa = XCConfigurationList;
@@ -518,6 +525,7 @@
 				DD2BADA71BC64B11000EBA4F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DD2BADA81BC64B11000EBA4F /* Build configuration list for PBXNativeTarget "自己动手实现 KVOUITests" */ = {
 			isa = XCConfigurationList;
@@ -526,6 +534,7 @@
 				DD2BADAA1BC64B11000EBA4F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
