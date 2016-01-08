@@ -37,9 +37,6 @@ http://www.csdn.net/article/2015-07-06/2825133-objective-c-runtime)
 
 [刨根问底Objective－C Runtime（1）－ Self & Super](http://chun.tips/blog/2014/11/05/bao-gen-wen-di-objective%5Bnil%5Dc-runtime%281%29%5Bnil%5D-self-and-super/)
 
-[深入理解RunLoop](
-http://blog.ibireme.com/2015/05/18/runloop/#base)
-
 [Objective-C之run loop详解]( 
 http://blog.csdn.net/wzzvictory/article/details/9237973)
 
