@@ -40,8 +40,9 @@ http://www.csdn.net/article/2015-07-06/2825133-objective-c-runtime)
 [Objective-C之run loop详解]( 
 http://blog.csdn.net/wzzvictory/article/details/9237973)
 
-[跟着MJExtension实现简单的字典转模型框架]( 
-                         http://www.jianshu.com/p/d2ecef03f19e)
+[跟着MJExtension实现简单的字典转模型框架](http://www.jianshu.com/p/d2ecef03f19e)
+
+[基于runloop的线程保活、销毁与通信](http://www.jianshu.com/p/4d5b6fc33519)
 
 ##未完待续，以后找到好的文章持续跟新。。欢迎关注。。
 
